@@ -23,15 +23,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=github_dark&hide_title=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=github_dark"/>
-</p>
-
----
-
 ### 📫 Contato
 
 -  Email: anaacaroll1505@gmail.com
