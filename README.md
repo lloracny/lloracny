@@ -36,7 +36,6 @@
 
 -  Email: anaacaroll1505@gmail.com
 -  LinkedIn: www.linkedin.com/in/ana-carolina-alves-496564335  
--  Portfólio: [seuportfólio.com](https://seuportfólio.com)
 
 ---
 
