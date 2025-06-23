@@ -8,7 +8,7 @@
 
 ### 💡 Sobre mim
 
--  Cursando Ciência da Computação - 1/8
+-  Cursando Ciência da Computação - 2/8
 -  Técnica em Desenvolvimento de Sistemas – com diversos projetos realizados  
 -  Certificada em AWS Cloud Practitioner 
 -  Gosto de backend, mas também tenho experiência com frontend e UI/UX!  
