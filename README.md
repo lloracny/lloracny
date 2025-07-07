@@ -11,8 +11,7 @@
 -  Cursando Ciência da Computação - 2/8
 -  Técnica em Desenvolvimento de Sistemas – com diversos projetos realizados  
 -  Certificada em AWS Cloud Practitioner 
--  Gosto de backend, mas também tenho experiência com frontend e UI/UX!  
--  Uma das idealizadoras e desenvolvedoras do **Twinkle** – projeto com realidade aumentada para educação  
+-  Afinidade maior com backend e análise de dados, mas também tenho experiência com frontend e UI/UX!   
 -  Interesse especial por astronomia, leitura, e claro, tecnologia
 
 ---
