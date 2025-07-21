@@ -8,11 +8,11 @@
 
 ### 💡 Sobre mim
 
--  Cursando Ciência da Computação - 2/8
--  Técnica em Desenvolvimento de Sistemas – com diversos projetos realizados  
--  Certificada em AWS Cloud Practitioner 
+-  Cursando Ciência da Computação - 2/8;
+-  Técnica em Análise e Desenvolvimento de Sistemas;
+-  Certificada em AWS Cloud Practitioner;
 -  Afinidade maior com backend e análise de dados, mas também tenho experiência com frontend e UI/UX!   
--  Interesse especial por astronomia, leitura, e claro, tecnologia
+-  Interesse especial por astronomia, leitura, e claro, tecnologia.
 
 ---
 
@@ -25,7 +25,7 @@
 ### 📫 Contato
 
 -  Email: anaacaroll1505@gmail.com
--  LinkedIn: www.linkedin.com/in/ana-carolina-alves-496564335  
+-  [LinkedIn](https://www.linkedin.com/in/anacarolinaalvesdesouza/)
 
 ---
 
