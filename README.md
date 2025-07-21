@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Ana Carolina 👋</h1>
 
 <p align="center">
-   Estudante de Ciência da Computação •  Foco em desenvolvimento Backend e Banco de Dados •  Apaixonada por tecnologia e inovação
+   Estudante de Ciência da Computação •  Foco em desenvolvimento Backend •  Apaixonada por tecnologia e inovação
 </p>
 
 ---
